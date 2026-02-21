@@ -1,0 +1,6 @@
+1.https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time
+2.https://www.kaggle.com/datasets/arnaud58/flickrfaceshq-dataset-ffhq
+3.https://www.kaggle.com/datasets/arnaud58/landscape-pictures
+4.https://www.kaggle.com/datasets/almightyj/person-face-sketches
+5.https://www.kaggle.com/datasets/sivarazadi/wikiart-art-movementsstyles
+6.https://www.kaggle.com/datasets/splcher/animefacedataset
