@@ -11,5 +11,8 @@ Dual-mode AI image generator: user prompts refined via Mistral-7B, then SDXL wit
 <img width="508" height="509" alt="image" src="https://github.com/user-attachments/assets/4a88749c-3376-4945-a71b-e314056548e7" />
 
 Prompt- "Full moon night sea view"
+
+
+
 <img width="514" height="511" alt="image" src="https://github.com/user-attachments/assets/a071285b-47c4-404f-b212-fc03c3513a4d" />
 
